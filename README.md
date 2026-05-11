@@ -9,7 +9,7 @@ Air pollution, especially PM2.5, is a major public health concern, and this anal
 
 ## 📊 Dataset
 
-The dataset is downloaded **directly within the notebook** from the official ArmeniaBlackouts.org data repository.
+Dataset is downloaded **directly within the notebook** from the official ArmeniaBlackouts.org data repository.
 No local data files are required.
 
 **Data Source:**  
@@ -41,10 +41,10 @@ The notebook includes:
 ## 🛠️ Tech Stack
 
 - Python
-- pandas
-- numpy
-- matplotlib / seaborn
-- scikit-learn
+- Pandas
+- Numpy
+- Matplotlib / Seaborn
+- Scikit-Learn
 - Jupyter Notebook
 
 ---
